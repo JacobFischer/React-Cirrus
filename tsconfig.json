@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "module": "commonjs",
+    "lib": ["dom"],
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
